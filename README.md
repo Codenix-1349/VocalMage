@@ -4,11 +4,19 @@
   <b>Voice-controlled fantasy music game for Android — train pitch, intervals, and cast spells by singing.</b>
 </p>
 
+## 🛠️ Technologies
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=Jetpack%20Compose&logoColor=white" alt="Jetpack Compose" />
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" />
+  <img alt="Kotlin" title="Kotlin" height="44" style="margin:0 18px;"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" />
+  <img alt="Android" title="Android" height="44" style="margin:0 18px;"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" />
+  <img alt="Gradle" title="Gradle" height="44" style="margin:0 18px;"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" />
+</p>
+
+<p align="center">
+  <b>Kotlin</b> · <b>Android</b> · <b>Jetpack Compose</b> · <b>Gradle</b>
 </p>
 
 <p align="center">
