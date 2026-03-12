@@ -3,9 +3,9 @@
 > Voice-controlled fantasy music game for Android — train pitch, intervals, and cast spells by singing.
 
 <p align="center">
-  <img src="YOUR_SCREENSHOT_1" alt="Vocal Mage Screenshot 1" width="250" />
-  <img src="YOUR_SCREENSHOT_2" alt="Vocal Mage Screenshot 2" width="250" />
-  <img src="YOUR_SCREENSHOT_3" alt="Vocal Mage Screenshot 3" width="250" />
+![WhatsApp Image 2026-03-12 at 21 56 43](https://github.com/user-attachments/assets/ab9c23eb-1aac-40e2-8ac5-927adda71ffa)
+![WhatsApp Image 2026-03-12 at 21 58 12](https://github.com/user-attachments/assets/9d05a9d1-1b9e-4a82-9c80-28702d0e4049)
+![WhatsApp Image 2026-03-12 at 21 57 30](https://github.com/user-attachments/assets/4903123e-4289-4a9b-a52d-37f959024ff1)
 </p>
 
 ## 📜 Overview
