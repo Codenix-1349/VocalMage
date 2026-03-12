@@ -1,7 +1,7 @@
 <h1 align="center">🧙‍♂️ Vocal Mage</h1>
 
 <p align="center">
-  <b>Voice-controlled fantasy music game for Android — train pitch, intervals, and cast spells by singing.</b>
+  <b>Voice-controlled fantasy musical education game for Android — train pitch, intervals, and cast spells by singing.</b>
 </p>
 
 ## 🛠️ Technologies
