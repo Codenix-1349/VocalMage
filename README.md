@@ -167,6 +167,6 @@ This repository, including its presentation materials, images, and written conte
 
 ## 👤 Author
 
-Developed by **Codenix**
+Developed by **Codenix-1349**
 
 An original project at the intersection of **music learning**, **voice interaction**, and **fantasy game design**.
