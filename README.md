@@ -1,6 +1,6 @@
 # 🧙‍♂️ Vocal Mage
 
-> Voice-controlled fantasy music game for Android — train pitch, intervals, and cast spells by singing.
+> Voice-controlled fantasy learning game for Android — train pitch, intervals, and cast spells by singing.
 
 ## 📸 Screenshots
 
