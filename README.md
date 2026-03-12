@@ -4,18 +4,20 @@
 
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/3dc2cc3e-0795-4e67-8aaa-c2af9c6c4812" alt="Tutorial Screen" width="230" /><br />
+      <img src="https://github.com/user-attachments/assets/51628663-9c63-451c-9d98-c9d9a89698b3" alt="Tutorial Screen" width="230" /><br />
       <sub><b>Tutorial</b></sub>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/69451a81-bdc2-4421-88e8-2dc4be7144df" alt="Quiz Screen" width="230" /><br />
+      <img src="https://github.com/user-attachments/assets/fbc01377-d079-47e2-8740-398ece0ca464" alt="Quiz Screen" width="230" /><br />
       <sub><b>Quiz</b></sub>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/f8e0fc15-0ca0-4ef7-a7b8-0497035b2e97" alt="Battle Screen" width="230" /><br />
+      <img src="https://github.com/user-attachments/assets/894e190c-db7e-4141-b3d4-6db5ee269ba9" alt="Battle Screen" width="230" /><br />
       <sub><b>Battle</b></sub>
     </td>
   </tr>
@@ -139,6 +141,7 @@ This repository, its visuals, texts, and project presentation may not be copied,
 
 
 ## 👤 Author
+
 
 Developed by **Codenix**
 
