@@ -1,8 +1,31 @@
-# 🧙‍♂️ Vocal Mage
+<h1 align="center">🧙‍♂️ Vocal Mage</h1>
 
-> Voice-controlled fantasy learning game for Android — train pitch, intervals, and cast spells by singing.
+<p align="center">
+  <b>Voice-controlled fantasy music game for Android — train pitch, intervals, and cast spells by singing.</b>
+</p>
 
-## 📸 Screenshots
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=Jetpack%20Compose&logoColor=white" alt="Jetpack Compose" />
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" />
+</p>
+
+<p align="center">
+  <i>Music ear training meets fantasy combat in a voice-driven Android experience.</i>
+</p>
+
+---
+
+## 📜 Overview
+
+**Vocal Mage** is a fantasy-themed Android game that combines **ear training**, **voice input**, and **turn-based combat**.
+
+Instead of using traditional button-only gameplay, the player uses their own voice to sing notes and intervals. Correct pitches power spells, damage enemies, and unlock progress through interactive lessons and battles.
+
+The goal of the project is to merge **music learning** with **gameplay**, turning vocal precision into a magical core mechanic.
+
+---
 
 ## 📸 Screenshots
 
@@ -23,14 +46,6 @@
   </tr>
 </table>
 
-## 📜 Overview
-
-**Vocal Mage** is a fantasy-themed Android game that combines **ear training**, **voice input**, and **turn-based combat**.
-
-Instead of pressing buttons to attack, the player uses their own voice to sing notes and intervals. Correct pitches power spells, defeat enemies, and support the learning process through interactive gameplay.
-
-The project is designed as a blend of **music education** and **game mechanics**, turning pitch recognition into a magical core gameplay system.
-
 ---
 
 ## ✨ Core Features
@@ -45,89 +60,92 @@ The project is designed as a blend of **music education** and **game mechanics**
   Use learned musical patterns in combat scenarios.
 
 - 📈 **Live feedback**  
-  Real-time vocal analysis helps players adjust and improve.
+  Receive immediate feedback while training and performing.
 
 - 🧠 **Learning through play**  
-  Game progression is tied to musical accuracy and mastery.
+  Progress by improving musical accuracy, timing, and consistency.
 
 - 📱 **Native Android experience**  
-  Designed specifically for mobile play sessions.
+  Designed specifically for mobile gameplay sessions.
 
 ---
 
 ## 🧩 What makes it special?
 
-Vocal Mage explores a less common interaction model in games:  
-**your voice becomes the main input mechanic**.
+**Vocal Mage** explores a rare interaction concept in games:  
+your **voice becomes the primary gameplay input**.
 
 The project combines:
 
-- game design
-- music theory
-- real-time audio processing
-- mobile UX
-- educational gameplay
+- **music theory**
+- **real-time vocal interaction**
+- **mobile game design**
+- **fantasy combat presentation**
+- **educational gameplay**
 
-This creates a concept that is both playful and skill-building.
-
----
-
-## 🛠️ Tech Stack
-
-- **Kotlin**
-- **Android**
-- **Jetpack Compose**
-- **Gradle**
-
-> Additional implementation details are intentionally kept private in this public showcase repository.
+This creates a concept that is both skill-building and game-like, bridging practice and play.
 
 ---
 
-## 📸 Screenshots
+## 🛠️ Technologies
 
-Add here:
-
-- Main menu
-- Tutorial / training screen
-- Battle screen
-- Victory / result screen
-- Optional: GIF of the singing / feedback mechanic
+<table align="center">
+  <tr>
+    <td align="center" width="140">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="42" alt="Kotlin" /><br />
+      <sub><b>Kotlin</b></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="42" alt="Android" /><br />
+      <sub><b>Android</b></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=Jetpack%20Compose&logoColor=white" alt="Jetpack Compose" /><br />
+      <sub><b>Jetpack Compose</b></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" height="42" alt="Gradle" /><br />
+      <sub><b>Gradle</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🚧 Project Status
 
-**Current state:** Prototype / vertical slice in active development
+**Current state:** Private prototype / public showcase
 
-Implemented or explored so far:
+This repository serves as a **public presentation page** for the project and does **not** contain the full source code.
 
-- voice-based interaction concept
-- fantasy combat presentation
-- note / interval training gameplay
-- mobile UI flows
-- core gameplay loop validation
+Current showcased areas include:
 
-This repository is currently used as a **public project showcase** and does **not** contain the full source code.
+- overall game concept
+- core visual direction
+- lesson-driven gameplay idea
+- battle presentation
+- mobile product vision
 
 ---
 
-## 🛣️ Roadmap
+## 🗺️ Roadmap
 
 Planned directions include:
 
 - expanded lesson progression
-- more enemies and encounters
-- improved visual feedback and effects
+- more enemies and encounter variety
+- improved UI polish and combat feedback
+- additional musical challenges and mechanics
 - content progression and balancing
-- polished release candidate for Android
+- polished Android release version
 
 ---
 
 ## 🔒 Source Code Notice
 
-This repository is a **public presentation repository** for the project.
+This repository is a **public showcase repository**.
 
-The full source code, internal architecture, gameplay systems, and implementation details are **not publicly available** at this stage.
+The full source code, internal systems, gameplay logic, implementation details, and production assets are **not publicly available** at this stage.
 
 ---
 
@@ -135,14 +153,12 @@ The full source code, internal architecture, gameplay systems, and implementatio
 
 **Proprietary – All rights reserved.**
 
-This repository, its visuals, texts, and project presentation may not be copied, redistributed, or reused without permission.
+This repository, including its presentation materials, images, and written content, may not be copied, redistributed, or reused without permission.
 
 ---
 
-
 ## 👤 Author
-
 
 Developed by **Codenix**
 
-A concept project at the intersection of **music learning**, **real-time voice interaction**, and **fantasy game design**.
+An original project at the intersection of **music learning**, **voice interaction**, and **fantasy game design**.
