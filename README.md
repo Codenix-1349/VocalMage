@@ -167,6 +167,6 @@ This repository, including its presentation materials, images, and written conte
 
 ## 👤 Author
 
-Developed by **Codenix-1349**
+Developed by **Patrick Neumann**
 
 An original project at the intersection of **music learning**, **voice interaction**, and **fantasy game design**.
