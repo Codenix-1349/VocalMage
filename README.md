@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <i>Music ear training meets fantasy combat in a voice-driven Android experience.</i>
+  <i>Musical education training meets fantasy combat in a voice-driven Android experience.</i>
 </p>
 
 ---
