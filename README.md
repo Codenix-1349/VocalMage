@@ -1,4 +1,4 @@
-<h1 align="center">🧙‍♂️ Vocal Mage</h1>
+<h1 align="center">🧙‍♂️ Vocal Mage - Showcase</h1>
 
 <p align="center">
   <b>Voice-controlled fantasy musical education game for Android — train pitch, intervals, and cast spells by singing.</b>
