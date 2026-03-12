@@ -2,11 +2,24 @@
 
 > Voice-controlled fantasy music game for Android — train pitch, intervals, and cast spells by singing.
 
-<p align="center">
-![WhatsApp Image 2026-03-12 at 21 56 43](https://github.com/user-attachments/assets/ab9c23eb-1aac-40e2-8ac5-927adda71ffa)
-![WhatsApp Image 2026-03-12 at 21 58 12](https://github.com/user-attachments/assets/9d05a9d1-1b9e-4a82-9c80-28702d0e4049)
-![WhatsApp Image 2026-03-12 at 21 57 30](https://github.com/user-attachments/assets/4903123e-4289-4a9b-a52d-37f959024ff1)
-</p>
+## 📸 Screenshots
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/3dc2cc3e-0795-4e67-8aaa-c2af9c6c4812" alt="Tutorial Screen" width="230" /><br />
+      <sub><b>Tutorial</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/69451a81-bdc2-4421-88e8-2dc4be7144df" alt="Quiz Screen" width="230" /><br />
+      <sub><b>Quiz</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/f8e0fc15-0ca0-4ef7-a7b8-0497035b2e97" alt="Battle Screen" width="230" /><br />
+      <sub><b>Battle</b></sub>
+    </td>
+  </tr>
+</table>
 
 ## 📜 Overview
 
@@ -123,6 +136,7 @@ The full source code, internal architecture, gameplay systems, and implementatio
 This repository, its visuals, texts, and project presentation may not be copied, redistributed, or reused without permission.
 
 ---
+
 
 ## 👤 Author
 
